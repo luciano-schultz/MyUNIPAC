@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyUNIPAC-TO</string>
+    <string name="textTabTitle1">Home</string>
+    <string name="textTabTitle2">Agenda</string>
+    <string name="textTabTitle3">M.Aluno</string>
+    <string name="textTabTitle4">M.Professor</string>
+</resources>
